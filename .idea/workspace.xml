@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 7 from course, exercises about if/else and readLine() use">
+    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 7 exercises about for, while and a challenge about loopings structures">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -50,8 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NullPointer.executor": "Run",
     "Kotlin.Aula1Kt.executor": "Run",
     "Kotlin.DesafioKt.executor": "Run",
+    "Kotlin.ElvisOperatorKt.executor": "Run",
     "Kotlin.ExercicioIfElseKt.executor": "Run",
     "Kotlin.ExerciciosForWhileKt.executor": "Run",
     "Kotlin.ExerciciosSecao5Kt.executor": "Run",
@@ -61,6 +64,9 @@
     "Kotlin.FormatacaoStringsKt.executor": "Run",
     "Kotlin.FuncoesDeStringKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.NullPointerExceptionKt.executor": "Run",
+    "Kotlin.OperadorLetKt.executor": "Run",
+    "Kotlin.TryCatchKt.executor": "Run",
     "Kotlin.WhenKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -132,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713906488067</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding section 7 exercises about for, while and a challenge about loopings structures">
+      <option name="closed" value="true" />
+      <created>1713965984986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713965984986</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +177,7 @@
     <MESSAGE value="Section 6" />
     <MESSAGE value="modified XML" />
     <MESSAGE value="adding section 7 from course, exercises about if/else and readLine() use" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding section 7 from course, exercises about if/else and readLine() use" />
+    <MESSAGE value="adding section 7 exercises about for, while and a challenge about loopings structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding section 7 exercises about for, while and a challenge about loopings structures" />
   </component>
 </project>
