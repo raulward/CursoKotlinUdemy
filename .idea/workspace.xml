@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="addinf section 8 from course">
+    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding README.md files to all section until now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -63,21 +66,30 @@
     "Kotlin.ExerciciosWhileKt.executor": "Run",
     "Kotlin.FormatacaoStringsKt.executor": "Run",
     "Kotlin.FuncoesDeStringKt.executor": "Run",
+    "Kotlin.GenericsKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.NullPointerExceptionKt.executor": "Run",
     "Kotlin.OperadorLetKt.executor": "Run",
     "Kotlin.TryCatchKt.executor": "Run",
+    "Kotlin.VarargKt.executor": "Run",
     "Kotlin.WhenKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/raulw/IdeaProjects/CursoUdemyKotlin/src/secao5",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\raulw\IdeaProjects\CursoUdemyKotlin\src\secao5" />
+      <recent name="C:\Users\raulw\IdeaProjects\CursoUdemyKotlin\src\secao6" />
+      <recent name="C:\Users\raulw\IdeaProjects\CursoUdemyKotlin\src\secao7" />
+      <recent name="C:\Users\raulw\IdeaProjects\CursoUdemyKotlin\src\secao8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\raulw\IdeaProjects\CursoUdemyKotlin\src\Secao5" />
     </key>
@@ -154,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713969171338</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding README.md files to all section until now">
+      <option name="closed" value="true" />
+      <created>1714140079053</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714140079053</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +207,7 @@
     <MESSAGE value="adding section 7 from course, exercises about if/else and readLine() use" />
     <MESSAGE value="adding section 7 exercises about for, while and a challenge about loopings structures" />
     <MESSAGE value="addinf section 8 from course" />
-    <option name="LAST_COMMIT_MESSAGE" value="addinf section 8 from course" />
+    <MESSAGE value="adding README.md files to all section until now" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding README.md files to all section until now" />
   </component>
 </project>
