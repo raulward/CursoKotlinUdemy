@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 11" />
+    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,7 @@
   "keyToString": {
     "Application.NullPointer.executor": "Run",
     "Kotlin.Aula1Kt.executor": "Run",
+    "Kotlin.ClassesAnonimasKt.executor": "Run",
     "Kotlin.DesafioKt.executor": "Run",
     "Kotlin.ElvisOperatorKt.executor": "Run",
     "Kotlin.ExercicioIfElseKt.executor": "Run",
@@ -65,20 +68,27 @@
     "Kotlin.FormatacaoStringsKt.executor": "Run",
     "Kotlin.FuncoesDeStringKt.executor": "Run",
     "Kotlin.GenericsKt.executor": "Run",
+    "Kotlin.HerancaKt.executor": "Run",
+    "Kotlin.InterfaceKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.ModificadoresDePrivacidadeKt.executor": "Run",
     "Kotlin.NullPointerExceptionKt.executor": "Run",
+    "Kotlin.ObjectCompanionObjectKt.executor": "Run",
     "Kotlin.OperadorLetKt.executor": "Run",
+    "Kotlin.PolimorfismoKt.executor": "Run",
     "Kotlin.TryCatchKt.executor": "Run",
     "Kotlin.VarargKt.executor": "Run",
     "Kotlin.WhenKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/raulw/IdeaProjects/CursoUdemyKotlin/src/secao5",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -96,6 +106,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>
