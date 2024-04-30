@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 14 READ.me file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +53,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.NullPointer.executor": "Run",
-    "Kotlin.AnyCountKt.executor": "Run",
     "Kotlin.Aula1Kt.executor": "Run",
-    "Kotlin.AverageKt.executor": "Run",
-    "Kotlin.ClassesAnonimasKt.executor": "Run",
     "Kotlin.DesafioKt.executor": "Run",
-    "Kotlin.DistinctReversedSortedKt.executor": "Run",
     "Kotlin.ElvisOperatorKt.executor": "Run",
     "Kotlin.ExercicioIfElseKt.executor": "Run",
     "Kotlin.ExerciciosForWhileKt.executor": "Run",
@@ -68,40 +62,23 @@
     "Kotlin.ExerciciosSecao6Kt.executor": "Run",
     "Kotlin.ExerciciosSecao7Kt.executor": "Run",
     "Kotlin.ExerciciosWhileKt.executor": "Run",
-    "Kotlin.FilterKt.executor": "Run",
-    "Kotlin.FirstLastKt.executor": "Run",
-    "Kotlin.ForEachKt.executor": "Run",
     "Kotlin.FormatacaoStringsKt.executor": "Run",
-    "Kotlin.FunMapKt.executor": "Run",
     "Kotlin.FuncoesDeStringKt.executor": "Run",
     "Kotlin.GenericsKt.executor": "Run",
-    "Kotlin.HerancaKt.executor": "Run",
-    "Kotlin.InterfaceKt.executor": "Run",
-    "Kotlin.ListKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
-    "Kotlin.MapKt.executor": "Run",
-    "Kotlin.MaxMinKt.executor": "Run",
-    "Kotlin.ModificadoresDePrivacidadeKt.executor": "Run",
     "Kotlin.NullPointerExceptionKt.executor": "Run",
-    "Kotlin.ObjectCompanionObjectKt.executor": "Run",
     "Kotlin.OperadorLetKt.executor": "Run",
-    "Kotlin.PolimorfismoKt.executor": "Run",
-    "Kotlin.SetKt.executor": "Run",
-    "Kotlin.SumSumOfKt.executor": "Run",
-    "Kotlin.TakeTakeLastKt.executor": "Run",
     "Kotlin.TryCatchKt.executor": "Run",
     "Kotlin.VarargKt.executor": "Run",
     "Kotlin.WhenKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/raulw/IdeaProjects/CursoUdemyKotlin/src/secao5",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -119,7 +96,6 @@
     <attachedChunks>
       <set>
         <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>
@@ -212,23 +188,7 @@
       <option name="project" value="LOCAL" />
       <updated>1714142812099</updated>
     </task>
-    <task id="LOCAL-00011" summary="adding section 14">
-      <option name="closed" value="true" />
-      <created>1714424819425</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1714424819426</updated>
-    </task>
-    <task id="LOCAL-00012" summary="adding section 14 READ.me file">
-      <option name="closed" value="true" />
-      <created>1714424858588</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1714424858588</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,8 +223,6 @@
     <MESSAGE value="addinf section 8 from course" />
     <MESSAGE value="adding README.md files to all section until now" />
     <MESSAGE value="adding section 11" />
-    <MESSAGE value="adding section 14" />
-    <MESSAGE value="adding section 14 READ.me file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding section 14 READ.me file" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding section 11" />
   </component>
 </project>
