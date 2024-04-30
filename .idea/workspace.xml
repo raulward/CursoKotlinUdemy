@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 11" />
+    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 15">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -50,37 +52,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.NullPointer.executor": "Run",
-    "Kotlin.Aula1Kt.executor": "Run",
-    "Kotlin.DesafioKt.executor": "Run",
-    "Kotlin.ElvisOperatorKt.executor": "Run",
-    "Kotlin.ExercicioIfElseKt.executor": "Run",
-    "Kotlin.ExerciciosForWhileKt.executor": "Run",
-    "Kotlin.ExerciciosSecao5Kt.executor": "Run",
-    "Kotlin.ExerciciosSecao6Kt.executor": "Run",
-    "Kotlin.ExerciciosSecao7Kt.executor": "Run",
-    "Kotlin.ExerciciosWhileKt.executor": "Run",
-    "Kotlin.FormatacaoStringsKt.executor": "Run",
-    "Kotlin.FuncoesDeStringKt.executor": "Run",
-    "Kotlin.GenericsKt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.NullPointerExceptionKt.executor": "Run",
-    "Kotlin.OperadorLetKt.executor": "Run",
-    "Kotlin.TryCatchKt.executor": "Run",
-    "Kotlin.VarargKt.executor": "Run",
-    "Kotlin.WhenKt.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/raulw/IdeaProjects/CursoUdemyKotlin/src/secao5",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.NullPointer.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AnyCountKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Aula1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.AverageKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ClassesAnonimasKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DesafioKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DistinctReversedSortedKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ElvisOperatorKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExercicioIfElseKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExerciciosForWhileKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExerciciosSecao5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExerciciosSecao6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExerciciosSecao7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ExerciciosWhileKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FilterKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FirstLastKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ForEachKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FormatacaoStringsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FunMapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.FuncoesDeStringKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.GenericsKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.HerancaKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.InterfaceKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ListKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MapKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MaxMinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ModificadoresDePrivacidadeKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.NullPointerExceptionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.ObjectCompanionObjectKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.OperadorLetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.PolimorfismoKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SetKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SumSumOfKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TakeTakeLastKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.TryCatchKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.VarargKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.WhenKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/raulw/IdeaProjects/CursoUdemyKotlin/src/secao5&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\raulw\IdeaProjects\CursoUdemyKotlin\src\secao5" />
@@ -96,6 +119,7 @@
     <attachedChunks>
       <set>
         <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>
@@ -188,7 +212,31 @@
       <option name="project" value="LOCAL" />
       <updated>1714142812099</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="adding section 14">
+      <option name="closed" value="true" />
+      <created>1714424819425</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714424819426</updated>
+    </task>
+    <task id="LOCAL-00012" summary="adding section 14 READ.me file">
+      <option name="closed" value="true" />
+      <created>1714424858588</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1714424858588</updated>
+    </task>
+    <task id="LOCAL-00013" summary="adding section 15">
+      <option name="closed" value="true" />
+      <created>1714502352987</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714502352987</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +271,24 @@
     <MESSAGE value="addinf section 8 from course" />
     <MESSAGE value="adding README.md files to all section until now" />
     <MESSAGE value="adding section 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding section 11" />
+    <MESSAGE value="adding section 14" />
+    <MESSAGE value="adding section 14 READ.me file" />
+    <MESSAGE value="adding section 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding section 15" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/section16/Guest.kt</url>
+          <line>2</line>
+          <properties class="section16.Guest" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
