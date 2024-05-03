@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 13">
-      <change afterPath="$PROJECT_DIR$/src/section16/business/GuestBussiness.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section16/control/Console.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section16/control/Entrance.kt" afterDir="false" />
+    <list default="true" id="3ced19c6-c62e-4f0e-af9e-30b44886728e" name="Changes" comment="adding section 16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section16/Console.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section16/Entrance.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section16/Guest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section16/GuestBussiness.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section16/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/section16/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -63,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.NullPointer.executor": "Run",
+    "Kotlin.AnonymousClassLambdaKt.executor": "Run",
     "Kotlin.AnyCountKt.executor": "Run",
     "Kotlin.Aula1Kt.executor": "Run",
     "Kotlin.AverageKt.executor": "Run",
@@ -85,6 +78,7 @@
     "Kotlin.GenericsKt.executor": "Run",
     "Kotlin.HerancaKt.executor": "Run",
     "Kotlin.InterfaceKt.executor": "Run",
+    "Kotlin.LambdaKt.executor": "Run",
     "Kotlin.ListKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.MapKt.executor": "Run",
@@ -250,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714502352987</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="adding section 16">
+      <option name="closed" value="true" />
+      <created>1714623799857</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714623799857</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +290,7 @@
     <MESSAGE value="adding section 14" />
     <MESSAGE value="adding section 14 READ.me file" />
     <MESSAGE value="adding section 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding section 15" />
+    <MESSAGE value="adding section 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding section 16" />
   </component>
 </project>
